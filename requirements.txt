@@ -1,7 +1,7 @@
 SQLAlchemy == 1.4.32
 attrs == 21.2.0
 beautifulsoup4 == 4.10.0
-chardet == 4.0.0
+chardet == 5.1.0
 cleverwrap == 0.3.0.2
 feedparser == 6.0.8
 forecastiopy == 0.22
